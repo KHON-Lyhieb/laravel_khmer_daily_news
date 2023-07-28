@@ -14,7 +14,7 @@ It's a website that showcases daily news articles in the Khmer language. It has 
 
 ## Productioin
 
-It insn't on production yet, we work on localhost, anyway you can take a looke of our project look like in the video demo below:
+It isn't in production yet; we work on localhost. Anyway, you can take a look at what our project looks like in the video demo:
 [Project Demo [Web] (SII) - Khmer Daily News](https://youtu.be/XE5W7ik8ZPc)
 
 ## License
